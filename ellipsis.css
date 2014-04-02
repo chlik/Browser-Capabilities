@@ -1,9 +1,9 @@
 .ellipsis {
-	white-space: nowrap;
-	text-overflow: ellipsis;
-	-o-text-overflow: ellipsis;
-	-moz-binding: url('ellipsis.xml#ellipsis');
-	overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  -o-text-overflow: ellipsis;
+  -moz-binding: url('ellipsis.xml#ellipsis');
+  overflow: hidden;
 }
 
 /**
