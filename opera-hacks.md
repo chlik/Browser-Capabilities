@@ -1,6 +1,7 @@
 #Opera 浏览器
 
 ##选择器 Hack
+
 ```css
 /* Opera 9.25, Safari 2/3.1 */
 *|html[xmlns*=""] .selector {}
@@ -11,6 +12,7 @@ noindex:-o-prefocus, .selector {}
 ```　　
 
 ##媒体查询 Hack
+
 ```css
 /* Opera 7 */
 @media all and (min-width: 0px){}
@@ -23,6 +25,7 @@ noindex:-o-prefocus, .selector {}
 ```　　
 
 ##JavaScript Hack
+
 ```js
 /* Opera 9.64- */
 var isOpera = /^function \(/.test([].sort);
