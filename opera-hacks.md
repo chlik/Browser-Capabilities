@@ -9,7 +9,7 @@
 html:first-child .selector {}
 /* Opera 9.5+ */
 noindex:-o-prefocus, .selector {}
-```　　
+```
 
 ##媒体查询 Hack
 
@@ -22,7 +22,7 @@ noindex:-o-prefocus, .selector {}
 @media screen and (min-resolution: +72dpi) {}
 /* Opera, IE 8/9/10 */
 @media screen {}
-```　　
+```
 
 ##JavaScript Hack
 
